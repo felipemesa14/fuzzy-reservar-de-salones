@@ -1,0 +1,3 @@
+I. INTRODUCCIÓN
+Basándonos en la librería fuzzy la cual es la encargada de resolver la lógica y el conjunto de reglas difusas para nuestro sistema experto de reserva de salones de aulas de clase implementamos una serie de reglas de entrada las cuales son las encargadas de almacenar el nombre de los salones que estarán disponibles, de igual forma almacenamos una variables de salida la cual será la encargada de arrojarnos el resultado de nuestras reglas difusas.
+Con fuzzy logramos desencadenar una serie de algoritmos basados en reglas, cuyo valor y resultado se encarga de hacer una serie de repeticiones en cuestión de segundos la cual podemos ver reflejadas por medio de gráficos.
